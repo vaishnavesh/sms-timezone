@@ -10,7 +10,7 @@ This is a simple Python application intended to provide a working example where 
 How To Use This
 ---------------
 
-1. Prerare data in csv format
+1. Prepare data in csv format
 2. Required format: Mobile No, Time Zone
 
 
